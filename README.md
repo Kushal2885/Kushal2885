@@ -26,6 +26,11 @@ Ambitious and passionate about technology, I enjoy turning ideas into impectful 
 <p>
 <img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
+<p>
+  <img src="https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
 
 `Python` `SQL` `Advanced Excel` `Power BI` `Data Visualization`
 
