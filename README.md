@@ -47,28 +47,13 @@ Ambitious and passionate about technology, I enjoy turning ideas into impectful 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kushal2885&theme=github-dark" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kushal2885&theme=tokyonight" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
 <a href="https://github.com/Kushal2885">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
+  <a href=https://www.linkedin.com/in/kushal-bhindi-534079320/ target="blank"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a>
 </p>
 
 ---
