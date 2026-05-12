@@ -1,5 +1,4 @@
-```md
-<h1 align="center">Hey 👋, I'm Kushal Soni</h1>
+<h1 align="center">Hey 👋, I'm Kushal Bhindi</h1>
 <h3 align="center">📊 Data Analyst | 🤖 AI/ML Learner | 💻 Web Developer</h3>
 
 <p align="center">
@@ -10,11 +9,14 @@
 
 ## 🚀 About Me
 
+Ambitious and passionate about technology, I enjoy turning ideas into impectful digital experiences through creativity, problem-solving, and continuous learning. Focused on growth, innovation, and building impactful solutions in Data Analytics, AI/ML, and Web Development.
+
+
 - 📊 Passionate about Data Analytics
 - 🤖 Currently learning AI & Machine Learning
 - 💻 Building Modern Websites
 - 🌱 Exploring Real World Projects
-- 🎯 Goal: Become Full Stack + AI Engineer
+- 🎯 Goal is to grow and improve every day
 
 ---
 
@@ -40,7 +42,7 @@
 
 ### 🌐 Web Development
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,bootstrap,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,github,vscode" />
 </p>
 
 ---
@@ -48,9 +50,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kushal2885&show_icons=true&theme=tokyonight" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushal2885&layout=compact&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=Kushal2885&theme=github-dark" />
 </p>
 
 ---
